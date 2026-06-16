@@ -1,1 +1,1 @@
-{"team": "TODO", "members": [], "notes": ""}
+{"team": "hnn", "members": [], "notes": "Diagnosis + mitigations for the shipped agent; evidence in TEMPLATE_FINDINGS.md (from logs/2026-06-15.log). See solution/ for config.json, prompt.txt, wrapper.py, examples.json, findings.json."}
